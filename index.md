@@ -4,6 +4,7 @@
 - Email：helloworkwork0723@gmail.com 
 - QQ：1126184096
 - 微信：h1126184096sj
+
 ---
 
 # 个人信息
@@ -63,6 +64,7 @@
 - 数据库相关：MySQL/SQLite/Redis
 - 版本管理、文档和自动化部署工具：Git/Github
 - 计算机网络：http/tcp/socket
+
 ---
 
 
