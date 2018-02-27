@@ -13,7 +13,7 @@ title: 黄胜杰的简历
 # 个人信息
 
  - 黄胜杰/男/1996 
- - 本科/2015.6 ~ 2019.6/大连东软信息学院计算机系/CET4: 469
+ - 本科/大连东软信息学院计算机系/2015.6 ~ 2019.6/CET4: 469
  - 实习工作年限：1年
  - 技术博客：[http://www.helloworkwork.com ](http://www.helloworkwork.com )
  - GitHub：[http://github.com/huangshengjie ](http://github.com/huangshengjie )
