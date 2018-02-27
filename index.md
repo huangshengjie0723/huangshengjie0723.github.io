@@ -4,7 +4,7 @@ title: 黄胜杰的简历
 # 联系方式
 
 - 手机：18940980522 
-- Outlook：helloworkwork@outlook.com 
+- 个人邮箱：sunshine@helloworkwork.com
 - Gmail：helloworkwork0723@gmail.com 
 - QQ：1126184096
 - 微信：h1126184096sj
