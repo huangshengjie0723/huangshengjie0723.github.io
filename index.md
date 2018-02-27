@@ -3,7 +3,7 @@
 - 手机：18940980522 
 - Email：helloworkwork0723@gmail.com 
 - QQ：1126184096
-- 微信号: h1126184096sj
+- 微信：h1126184096sj
 ---
 
 # 个人信息
@@ -11,9 +11,8 @@
  - 黄胜杰/男/1996 
  - 本科/大连东软信息学院计算机系 
  - 实习工作年限：1年
- - 技术博客：http://www.helloworkwork.com (域名和博客均为原创)
- - GitHub：http://github.com/huangshengjie 
-
+ - 技术博客：[http://www.helloworkwork.com ](http://www.helloworkwork.com )
+ - GitHub：[http://github.com/huangshengjie ](http://github.com/huangshengjie )
  - 期望职位：Android实习生，Java后台实习生
  - 期望薪资：1k~2k
  - 期望城市：大连
@@ -65,82 +64,6 @@
 - 版本管理、文档和自动化部署工具：Git/Github
 - 计算机网络：http/tcp/socket
 
-
-## 参考技能关键字
-
-本技能关键字列表是从最近招聘Android的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
-
-- android(1830)
-- java(386)
-- ui(180)
-- app(178)
-- http(149)
-- sdk(135)
-- tcp(95)
-- socket(93)
-- api(60)
-- xml(48)
-- framework(48)
-- eclipse(41)
-- linux(38)
-- json(28)
-- ndk(27)
-- ios(27)
-- sqlite(26)
-- andriod(25) 2%的HR把android给写错了 T_T
-- html5(25)
-- web(23)
-- github(21)
-- jni(20)
-- svn(15)
-- gui(14)
-- git(13)
-- wifi(10)
-- 3g(10)
-- j2me(10)
-- mysql(10)
-- oracle(9)
-- html(9)
-- sql(8)
-- tv(8)
-- mvc(8)
-- lbs(8)
-- code review(7)
-- im(7)
-- mobile(6)
-- view(6)
-- stackoverflow(6)
-- xmpp(6)
-- o2o(5)
-- ue(5)
-- objective(5)
-- js(5)
-- blog(5)
-- andorid(5)
-- rom(5)
-- launcher(5)
-- restful(5)
-- webservice(4)
-- apk(4)
-- androidsdk(4)
-- oo(4)
-- javascript(4)
-- j2ee(4)
-- opengl(4)
-- uml(4)
-- sms(3)
-- windows(3)
-- market(3)
-- audio(3)
-- httptps(3)
-- udp(3)
-- store(3)
-- php(3)
-- unity3d(3)
-- native(3)
-- webview(3)
-
----
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
