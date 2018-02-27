@@ -60,10 +60,10 @@ title: 黄胜杰的简历
 
 以下均为我熟练使用的知识和技能
 
-- 开发语言：Java/Python/PHP/JavaScript/HTML5/CSS3
-- Web框架：Django/Spring Boot/Spring/Spring MVC
+- 开发语言：Java/Python/JavaScript/HTML5/CSS3
+- Web框架：Django/Spring Boot
 - 前端框架：Bootstrap/AngularJS
-- Android：四大组件，常用网络框架，图片加载，内存优化，自定义view
+- Android：四大组件，常用网络框架，图片加载，内存优化，自定义view，React Native
 - Linux：熟悉Ubuntu下配置相关开发环境以及常用Linux命令
 - 数据库相关：MySQL/SQLite/Redis
 - 版本管理、文档和自动化部署工具：Git/Github
