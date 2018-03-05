@@ -14,7 +14,7 @@ title: 黄胜杰的简历
 
  - 黄胜杰/男/1996 
  - 本科/大连东软信息学院计算机系/2015.6 ~ 2019.6/CET4: 469
- - 实习工作年限：1年
+ - 实习工作年限：8个月
  - 技术博客：[http://www.helloworkwork.com ](http://www.helloworkwork.com )
  - GitHub：[http://github.com/huangshengjie ](http://github.com/huangshengjie )
  - 期望职位：Android实习生，Java后台实习生
