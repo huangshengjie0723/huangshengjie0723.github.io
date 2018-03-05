@@ -28,6 +28,7 @@ title: 黄胜杰的简历
 ## [大连柠盟科技有限公司](http://www.lemner.com) （ 2017年5月 ~ 至今 ）
 
 ### [自主微饮媒体一体机项目](http://www.lemner.com/developmentCase.html) 
+一个广告投放产品，基于Socket通讯协议与服务器之间通过长连接来保证广告数据的传输。
 
 ### [大连港物业项目](http://www.lemner.com/developmentCase.html)
 
