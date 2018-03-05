@@ -18,7 +18,7 @@ title: 黄胜杰的简历
  - 技术博客：[http://www.helloworkwork.com ](http://www.helloworkwork.com )
  - GitHub：[http://github.com/huangshengjie ](http://github.com/huangshengjie )
  - 期望职位：Android实习生，Java后台实习生
- - 期望薪资：1k~2k
+ - 期望薪资：2k
  - 期望城市：大连
 
 ---
@@ -27,13 +27,9 @@ title: 黄胜杰的简历
 
 ## [大连柠盟科技有限公司](http://www.lemner.com) （ 2017年5月 ~ 至今 ）
 
-### [自主微饮媒体一体机项目](http://www.lemner.com) 
-
-
+### [自主微饮媒体一体机项目](http://www.lemner.com/developmentCase.html) 
 
 ### [大连港物业项目](http://www.lemner.com/developmentCase.html)
-一个能够在线发单，抢单的物业维修APP，
-
 
 ---
 
