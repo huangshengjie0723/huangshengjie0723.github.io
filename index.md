@@ -45,12 +45,12 @@ title: 黄胜杰的简历
 
 以下均为我熟悉的知识和技能
 
-- 开发语言：Java、Python、JavaScript
+- 计算机语言：Java、Python、JavaScript
 - Web框架：Django、Spring Boot
 - Android：四大组件、常用网络框架、图片加载、内存优化、自定义view
-- Linux：熟悉Ubuntu下配置相关开发环境和应用部署以及常用Linux命令
-- 数据库相关：MySQL、SQLite、Redis
-- 版本管理、文档和自动化部署工具：Git/Github
+- Linux：熟悉常用Linux命令操作、熟悉Ubuntu下配置相关开发环境和应用部署
+- 数据库软件：MySQL、SQLite、Redis
+- 版本控制工具：Git/Github
 - 计算机网络：HTTP、TCP/IP、Socket
 
 ---
