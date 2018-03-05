@@ -39,12 +39,6 @@ title: 黄胜杰的简历
 
 # 开源项目和作品
 
-### [晴宝 APP](http://www.github.com/huangshengjie/) 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
-### [Quick news APP](http://www.github.com/huangshengjie/) 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
 ### [瞎搞小白 个人博客网站](http://www.helloworkwork.com) 
 瞎搞小白 个人博客网站通过 Hexo(基于Git和Node.js) 生成，部署在 [GitHub Pages](https://github.com/huangshengjie/huangshengjie.github.io)，支持评论系统。
 
